@@ -8,6 +8,7 @@ public class Operadores {
     } */
 //classe Operadores.java
 String nomeCompleto = "LINGUAGEM" + "JAVA";
+System.out.println(nomeCompleto);
 		
 //qual o resultado das expressoes abaixo?
 String concatenacao ="?"; 
